@@ -48,11 +48,12 @@ Training-free compression pipeline reducing 3D Gaussian Splatting model size ~74
 
 ## Reach me
 
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
-- Website: [optional]
+- Email: taifurrahman0606@gmail.com
 
 <!--
 Optional GitHub stats card — uncomment to use:
+- LinkedIn: [your-linkedin]
+- Website: [optional]
+
 ![stats](https://github-readme-stats.vercel.app/api?username=Daceyyreal&show_icons=true&hide_border=true)
 -->
